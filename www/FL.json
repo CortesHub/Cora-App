@@ -1,0 +1,319 @@
+{
+  "results": [{
+    "id": 1,
+    "original_title": "Ananas Sweet",
+    "overview": "Fruit cylindrique, à peau jaune brillant. Chaire jaune, à saveur douce, taille moyenne. Le choisir exempt de taches, et de feuilles luisantes se détachant facilement. Se mange nature, en salade de fruits ou flambe.",
+    "saison": "1989-06-23",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Ananas_Sweet.png"
+  }, {
+    "id": 2,
+    "original_title": "Ananas Victoria-Queen",
+    "overview": "Qualité gustative exceptionnelle, à peau jaune-orange. Chair jaune dorée, juteuse, très parfumée et sucrée. Le choisir exempt de taches, et de feuilles luisantes se détachant facilement. Se mange nature, en salade de fruits ou flambe.",
+    "saison": "2005-06-15",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Ananas_Victoria.png"
+  }, {
+    "id": 3,
+    "original_title": "Anone Chirimoya",
+    "overview": "Fruit à facette : un pépin noir derrière chacune. Chair blanche et fondante. À consommer quand sa chair verte se teint de petites taches brunes et que le fruit s’écrase légèrement sous la pression du doigt (comme l’avocat). À consommer comme un kiwi.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Anone_Chirimoya.png"
+  }, {
+    "id": 4,
+    "original_title": "Banane Frecinette",
+    "overview": "Banane de petite taille, la pulpe est jaune, dense, bien sucrée et parfumée. À consommer lorsque le chair est mûre. Couleur bien jaune à maturité. Évitez les fruits brunis. À consommer en salade exotique, écrasée avec une boule de glace «noix de coco».",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Banane_Frecinette.png"
+  }, {
+    "id": 5,
+    "original_title": "Banane Plantin",
+    "overview": "Banane légume, qui accompagne les volailles et poissons. Goût légèrement acidulé, ressemblant à la patate douce. Devient jaune à maturité, puis se tache et noircit avec le temps. Il faut la blanchir pour pouvoir la peler.",
+    "saison": "1966-07-30",
+    "spe": "Légume exotique",
+    "poster_path": "/le/Bananes_Plantin.png"
+  }, {
+    "id": 6,
+    "original_title": "Banane Rose",
+    "overview": "D’origine identique à sa sœur jaune, elle est de saveur plus sucrée et bien parfumée. Prête à être consommée quand la chair cède un peu à la pression des doigts. Si des taches noires font leurs apparitions, la banane conviendra mieux à la cuisson. Se prépare comme une autre banane, nature, en dessert, flambe ou en salade de fruits.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Banane_Rose.png"
+  }, {
+    "id": 7,
+    "original_title": "Bidao ou courgette cireuse",
+    "overview": "Sorte de courgette verte claire, pruine. La chair est ferme.  Les courges qui sont bien fermes et lisses sont signe de fraicheur. Il faut qu’elles soient bien lourdes. Préparées de diverses manières : en soupe, en gratin ou à l’aigre doux.",
+    "saison": "1966-07-30",
+    "spe": "Légume exotique",
+    "poster_path": "/le/Bidao.png"
+  }, {
+    "id": 8,
+    "original_title": "Canne à sucre",
+    "overview": "Tiges d’un diamètre de 1,5 à 6 cm. Elle est remplie d’un liquide sucrée. Choisir les tiges juteuses et non fripées. Récupérez le jus en mâchant le tube ou en le pressant.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Canne_a_Sucre.png"
+  }, {
+    "id": 9,
+    "original_title": "Carambole",
+    "overview": "Fruit en forme d’étoile. La chair est juteuse, un peu filandreuse. Fruit ferme, à la peau lisse et brillante. Elle devient dorée et les extrémités brunissent à maturité. À consommer nature avec du sucre ou du miel, ou en décoration. Elle peut être cuite en purée ou en coulis.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Carambole.png"
+  }, {
+    "id": 10,
+    "original_title": "Choux chinois",
+    "overview": "Pour choisir votre chou chinois, trouvez en un assez lourd, ferme et aux feuilles bien blanches (extrémités vertes ou jaunes). Il existe toutes sortes de recettes : salade, crue, farcie, braise ou cuite.",
+    "saison": "1966-07-30",
+    "spe": "Légume exotique",
+    "poster_path": "/le/Choux_Chinois.png"
+  }, {
+    "id": 11,
+    "original_title": "Christophine-chayotte",
+    "overview": "Tubercule à la peau grumeleuse. Chair très dure dont la saveur douce rappelle la pomme de terre. Choisir à la couleur crème ou jaune pâle, prête à éclater mais pas fendue. Cuisinée en purée ou crue.",
+    "saison": "1966-07-30",
+    "spe": "Légume exotique",
+    "poster_path": "/le/Christophine_Chayotte.png"
+  }, {
+    "id": 12,
+    "original_title": "Combava",
+    "overview": "Ressemble à un petit citron vert de forme irrégulière. Zeste très acide, amer et parfumé. Le choisir ferme et lourd en main, peau brillante et sans taches. Utilisez une râpe pour relever le goût des ragoûts, sauces, ou comme parfum de glaces, sorbets, ou gâteaux. Le jus peut aussi être utilisé pour préparer des boissons désaltérantes.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Combava.png"
+  }, {
+    "id": 13,
+    "original_title": "Corossol",
+    "overview": "La chair est très blanche, juteuse, rafraichissante et comporte de gros pépins noirs indigestes. La chair a un gout sucré et acidulé rappelant le cassis. Il doit être ferme à l’achat. Il mûrit rapidement. Il peut être consommé nature, mais plus souvent en sorbet, en jus et crème glacée.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Corossol.png"
+  }, {
+    "id": 14,
+    "original_title": "Durian",
+    "overview": "Proche du fruit à pain, on ne consomme que les graines et la pulpe qui les entoure. On le déguste quand il est bien mûr. Certains mangent le fruit avec les doigts, d’autres le préfèrent accompagné de riz gluant au lait de coco, ou encore sous forme de sorbet.",
+    "saison": "1966-07-30",
+    "spe": "Légume exotique",
+    "poster_path": "/le/Durian.png"
+  }, {
+    "id": 15,
+    "original_title": "Figue de barbarie",
+    "overview": "Couleur pourpre à peau fine, avec la chair orange juteuse, acidulée, parfumée et sucrée. Peau souple au touché. Se mange à la cuillère avec du sucre ou avec un filet de citron. On peut aussi le consommer en accompagnement du foie gras et de la volaille.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Figue_de_Barbarie.png"
+  }, {
+    "id": 16,
+    "original_title": "Fruit de la passion",
+    "overview": "Petit fruit à peau épaisse avec une chair riche en graines, légèrement gélatineuse et acidulée. Coloration uniforme et souple au touché. Le fruit se ride à maturité. Le fruit mûr est plus sucré : on l’utilise pour faire des sorbets, coulis, confitures ou cocktails.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Fruit_de_la_Passion.png"
+  }, {
+    "id": 17,
+    "original_title": "Gingembre",
+    "overview": "Racine à peau, avec la chair piquante et très parfumée. Les extrémités sont saines et fermes, pas flétris ni trop secs. À utiliser avec les plats exotiques ou en salades de fruits, mais attention au dosage !",
+    "saison": "1966-07-30",
+    "spe": "Légume exotique",
+    "poster_path": "/le/Gimgembre.png"
+  }, {
+    "id": 18,
+    "original_title": "Gombo",
+    "overview": "Fruit d’un hibiscus qui a la forme d’un piment à facettes longitudinales avec un goût très doux. Choisir le gombo bien coloré, tendre mais ferme, exempt de taches et meurtrissures. Le gombo se mange cru ou cuit, il peut être préparé comme l’asperge ou l’aubergine.",
+    "saison": "1966-07-30",
+    "spe": "Légume exotique",
+    "poster_path": "/le/Gombo.png"
+  }, {
+    "id": 19,
+    "original_title": "Goyave",
+    "overview": "Peau fine verte et piquète de noir lorsque le fruit est mûr. Ce dernier renferme une chair crème orange saumon très aromatique. Souple au touché à maturité, la goyave avec une chair rose est plus fragile. Retirez les pépins au ventre. Elle se mange à la cuillère, en salade de fruits, sorbet ou en infusion.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Goyave.png"
+  }, {
+    "id": 20,
+    "original_title": "Grenade",
+    "overview": "La pulpe, qui entoure de nombreuses graines, est gélatineuse, rouge transparente, sucrée, légèrement acidulée et parfumée. Choisir des fruits à la peau foncée, rouge sombre ou brun. Se consomme nature, coupée en deux. On peut l’utiliser en décoration, jus, glace ou gelée.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Grenade.png"
+  }, {
+    "id": 21,
+    "original_title": "Igname",
+    "overview": "Racine volumineuse, allongée, brune. La chair est blanche ou jaune. Choisissez les ignames fermes, à la peau saine et sans zone molle. On peut le consommer cuit à la vapeur, braisé ou frit.",
+    "saison": "1966-07-30",
+    "spe": "Légume exotique",
+    "poster_path": "/le/Igname.png"
+  }, {
+    "id": 22,
+    "original_title": "Jujube",
+    "overview": "Petit fruit aussi appelé «date chinoise». Sa chair blanchâtre est farineuse et entoure un noyau dur. Non mûre, le jujube a le goût et la consistance d’une pomme. À maturité, elle se flétrie, le goût et la consistance ressemble à celle de la datte. Évitez ceux à peau terne : elle doit être brillante. Se consomme nature ou cuit. Il remplace très bien la datte dans les desserts, soupes, farce ou plats mijotés.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Jujube.png"
+  }, {
+    "id": 23,
+    "original_title": "Kaki",
+    "overview": "Peau jaune orange et rouge, avec une chair douche. Choisir des kakis avec une peau transparente et légèrement ramollie. Pour accélérer le murissement, pensez à mettre le kaki à proximité d’une banane ou d’une pomme. Se mange nature ou alors dans différents desserts (salade de fruits, mousse, sorbet ou compote).",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Kaki.png"
+  }, {
+    "id": 24,
+    "original_title": "Kiwai",
+    "overview": "Aussi appelé «baby-kiwi», cette baie possède une peau plus lisse que le kiwi. Sélectionnez les baies assez souples qui est gage de maturité. Trop ferme, le fruit sera trop acide en bouche. Le kiwai peut se consommer avec ou sans la peau. Il s’utilise dans la préparation de desserts, beignets et tartes.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/kiwi.png"
+  }, {
+    "id": 25,
+    "original_title": "Kiwano",
+    "overview": "Fruit ovale à grosses épines non piquantes, à chair verte comme un gélose de tomates, avec des pépins de melon. Plus la couleur est éclatante, plus le fruit est mûr. Se consomme soit en crudité arrosé d’un jus de lime, soit en dessert en le sucrant. Vous pouvez aussi le déguster à la cuillère comme un kiwi.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Kiwano.png"
+  }, {
+    "id": 26,
+    "original_title": "Kumquat",
+    "overview": "Petit agrume ovale, avec une peau fine orangée. La chair est juteuse et acide. À maturité, la teinte est orangée. On le cuit en compote ou confit. On peut aussi l’intégrer aux farces ou aux sauces aigre-douce.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/kumquat.png"
+  }, {
+    "id": 27,
+    "original_title": "Litchi",
+    "overview": "Petit fruit à épiderme ligneux, à chair translucide, juteuse, acidulée et parfumée. La coque est souple, de couleur rouge vif. Retirez l’enveloppe et consommez le tel quel, ou incorporez le dans une salade de fruits.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Litchi.png"
+  }, {
+    "id": 28,
+    "original_title": "Longane",
+    "overview": "Le longane est un fruit sphérique qui se rapproche du litchi et du ramboutan. Sa chair est gélatineuse, sucrée, juteuse. Elle entoure un noyau dur, noir, brillant, non comestible. Sélectionnez ceux avec une peau intacte, sans trop de marques noires. Conservez le à température ambiante, sans accès direct au soleil. À consommer tel quel, comme le litchi.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Longane.png"
+  }, {
+    "id": 29,
+    "original_title": "Lulo",
+    "overview": "Comme une tomate jaune, c’est une physalis sans coquille. Elle possède un bon goût sucré et acidulé. Évitez ceux trop ferme. La texture de la peau ne doit pas être trop fripée. Le fruit doit être assez lourd dans la main. Le lulo se consomme principalement par son jus. Il suffit donc de l’éplucher et de le mixer. Vous pouvez accompagner le jus de quelques cuillères de sucres et de quelques glaçons.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Lulo.png"
+  }, {
+    "id": 30,
+    "original_title": "Mangoustan",
+    "overview": "Qualité gustative exceptionnelle, avec une pulpe en quartiers gélatineuse, à la fois sucrée et acidulée, très riche en antioxydant. Lorsque le peau est dure, il n’est plus comestible, car il est trop vieux. À maturité, les quartiers de pulpe se détachent par eux-mêmes. La pulpe blanche se consomme nature, en salade de fruits exotiques, en beignet ou en sorbet.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Mangoustan.png"
+  }, {
+    "id": 31,
+    "original_title": "Mangue",
+    "overview": "Fruit à chair juteuse, sucrée, onctueuse et très parfumée. À maturité, la chair cède à la pression. La pulpe se consomme nature, coupée en cubes. La mangue est aussi utilisée en salade de fruits, confiture et en gelée. Elle accompagne également la volaille.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Mangue.png"
+  }, {
+    "id": 32,
+    "original_title": "Manioc",
+    "overview": "La racine est longue, brune ou marron foncée, avec une chair blanchâtre, riche en amidon. Le manioc amer n’est pas comestible en l’état : on en fabrique du tapioca. La chair dure cuite à l’eau se délaie et accompagne les viandes et poissons.",
+    "saison": "1966-07-30",
+    "spe": "Légume exotique",
+    "poster_path": "/le/Manioc.png"
+  }, {
+    "id": 33,
+    "original_title": "Noix de coco",
+    "overview": "On trouve une écorce ligneuse, marron et très dure. La pulpe blanche est croquante, parfumée. Elle renferme un liquide sucré. Choisissez la avec la coque marron non fendue. La pulpe se consomme dans les préparations sucrées, mais aussi pour accompagner certains poissons et volailles.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Noix_de_Coco.png"
+  }, {
+    "id": 34,
+    "original_title": "Oca du perou",
+    "overview": "Aspect proche du topinambour. L’oca du Pérou est de petite taille, coloré avec un goût acidulé.Choisissez la comme vous choisiriez une pomme de terre.Il peut être préparé frit, sauté ou à la vapeur.",
+    "saison": "1966-07-30",
+    "spe": "Légume exotique",
+    "poster_path": "/le/Oca_du_Perou.png"
+  }, {
+    "id": 35,
+    "original_title": "Papaye",
+    "overview": "Baie anguleuse ou arrondie, avec une peau mince, lisse, verte ou jaune. La pulpe est charnue, plus ou moins sucrée, légèrement acre. Les graines ne sont pas comestibles. Le papaye devient jaune à maturité. La chair est tendre sous la pression. Évitez celles avec des taches noires. Le papaye se consomme nature, à la cuillère comme un melon, ou dans une salade de fruits. On peut y ajouter un filet de citron.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Papaye.png"
+  }, {
+    "id": 36,
+    "original_title": "Patate douce",
+    "overview": "Racine allongée avec une peau rugueuse et brune. La chair est orangée. La texture farineuse est plus sucrée que la patate à chair blanche, rappelant un peu la châtaigne. Choisissez la avec une peau non fripée, lourd en main et sans meurtrissures. Elle s’utilise comme une pomme de terre en accompagnement.",
+    "saison": "1966-07-30",
+    "spe": "Légume exotique",
+    "poster_path": "/le/Patate_Douce.png"
+  }, {
+    "id": 37,
+    "original_title": "Pépino",
+    "overview": "C’est une grosse poire jaune, plus ou moins zèbre de violet. À maturité, le pépino est juteux et possède la texture d’un melon. La saveur de ce fruit est étonnante ! Il faut le choisir comme un melon.On peut le consommer nature, en salade ou pressé en jus.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Pepino.png"
+  }, {
+    "id": 38,
+    "original_title": "Physalis",
+    "overview": "C’est une cerise de terre, coqueret. Petite baie jaune orange, avec une pulpe juteuse au goût acidulé et contenant de toutes petites graines croquantes. Les feuilles sont séchées mais le fruit doit être lisse, ferme, de couleur uniforme. C’est un fruit décoratif, mais il se consomme aussi nature, en accompagnement du poisson ou en confiture.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Physalis.png"
+  }, {
+    "id": 39,
+    "original_title": "Piments exotiques",
+    "overview": "Le piment est une gousse plus ou moins charnue, qui renferme de multiples graines. Leur saveurs peut être très piquante, voir même brulante ! Il faut choisir des piments bien colorés, lisses, brillants et non flétris. Il est préférable de conserver les piments au réfrigérateur sans les laver. Le piment est souvent utilisé en accompagnement culinaire.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Piments_Exotiques.png"
+  }, {
+    "id": 40,
+    "original_title": "Pitahaya rouge",
+    "overview": "Le fruit du dragon, c’est un fruit sphérique, charnue avec des écailles comestibles, contenant des petites graines noires. Choisissez le avec une couleur vive et non fripée. C’est à découper dans le sens de la longueur. La chair se consomme nature, accompagné d’un jus de citron, en salade de fruits ou en jus.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Pitahaya_Rouge.png"
+  }, {
+    "id": 41,
+    "original_title": "Ramboutant",
+    "overview": "Fruit ovoïde avec des poils épais et doux. La pulpe est translucide parfumée, sucrée et juteuse. La coloration est rouge vif ou jaune orange, à maturité. Ce fruit se consomme frais, sec ou en conserve.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Ramboutan.png"
+  }, {
+    "id": 42,
+    "original_title": "Sapotille",
+    "overview": "Fruit ovale, brun clair, proche de la poire et un peu granuleux. Pour sélectionner une sapotille mûre, prenez le fruit dans vos mains. Il doit être souple sous les doigts. Après l’avoir coupée en deux, il suffit de déguster la chair à la petite cuillère.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Sapotille.png"
+  }, {
+    "id": 43,
+    "original_title": "Tamarillo",
+    "overview": "De la même famille que la tomate, avec une peau brillante de couleur orange dorée, la chair de ce fruit est jaunâtre, juteuse, douce et savoureuse. La peau n’est pas comestible car elle est très amer. Il faut choisir ce fruit lorsqu’il est intact, ferme avec une peau lisse, sans tache et légèrement mou à la pression. Vous pouvez le griller pour accompagner la volaille ou le poisson. Il se laisse manger en purée dans un yaourt ou en crème glacée. Enfin, on peut le consommer nature, coupée en deux avec du sel.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Tamarillo.png"
+  }, {
+    "id": 44,
+    "original_title": "Tamarin",
+    "overview": "Fruit en forme de gousse d’haricot, il renferme des graines entourées d’une pulpe brune, molle, à la saveur sucrée, acidulée, proche de celle du pruneau. Il faut la choisir avec une coque non cassée et sans taches. On peut le consommer en jus, en pate de fruits, en confiture ou en gelée. La pulpe est un purgatif doux. On l’utilise aussi pour faire des infusions.",
+    "saison": "1966-07-30",
+    "spe": "Fruit exotique",
+    "poster_path": "/fe/Tamarin.png"
+  }, {
+    "id": 45,
+    "original_title": "Taro dashine",
+    "overview": "Racine assez volumineuse, avec une peau rugueuse. Sa chair est blanche, farineuse et sucrée. Sélectionnez le ferme et sans cassure. Il faut le cuir à l’eau bouillante, on peut ensuite le cuisiner comme une pomme de terre.",
+    "saison": "1966-07-30",
+    "spe": "Légume exotique",
+    "poster_path": "/le/Taro_Dashine.png"
+  }],
+  "total_results": 45
+}
